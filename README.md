@@ -6,4 +6,5 @@
 
 ## Tools
 
-- [SSSTIK](https://ssstik.io/) - Download TikTok videos without watermark.
+- [SSSTIK](https://ssstik.io/) - TikTok video downloader without watermark.
+- [SSSTWITTER](https://ssstwitter.com/) - X video downloader.
