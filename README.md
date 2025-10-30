@@ -12,3 +12,4 @@
 - [Photopea](https://www.photopea.com/) - Photo editor.
 - [InstaStoriesViewer](https://insta-stories-viewer.com/) - Anonymous Instagram story viewer.
 - [DistroSea](https://distrosea.com/) - Web-based Linux distro tester.
+- [Discover Profile](https://discoverprofile.com/) - Social media profile finder.
