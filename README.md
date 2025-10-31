@@ -13,3 +13,4 @@
 - [InstaStoriesViewer](https://insta-stories-viewer.com/) - Anonymous Instagram story viewer.
 - [DistroSea](https://distrosea.com/) - Web-based Linux distro tester.
 - [Discover Profile](https://discoverprofile.com/) - Social media profile finder.
+- [LogoFast](https://shipfa.st/tools/logo-fast) - Logo maker.
