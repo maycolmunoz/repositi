@@ -17,3 +17,4 @@
 - [Tellows](https://www.tellows.co/) - Phone directory.
 - [AutoDraw](https://www.autodraw.com/) - AI drawing tool.
 - [TEMPMAIL](https://temp-mail.org/) - Temporary email.
+- [Claseflix](https://claseflix.io/) - Courses.
